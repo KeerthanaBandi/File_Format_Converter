@@ -65,5 +65,3 @@ This project is a Python-based tool designed to convert CSV files to JSON format
     python app.py '["dataset1", "dataset2"]'
     ```
 
-## Project Structure
-
